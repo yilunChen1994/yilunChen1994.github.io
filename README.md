@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Yilun Chen Website
 
-You can use the [editor on GitHub](https://github.com/yilunChen1994/yilunchen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Please go to https://github.com/yilunChen1994/yilunchen.github.io to see more about me!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
