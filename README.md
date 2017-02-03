@@ -13,4 +13,4 @@ I'm now master student studying Operations Research at Columbia University. I'm 
  
  Email: yilunc0127@gmail.com
        
-       yc3214@columbia.edu
+yc3214@columbia.edu
