@@ -3,13 +3,13 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://yilunChen1994.github.io/files/lantaoyu_img.jpg?raw=true" alt="Photo" style="width: 450px;"/>
 </p>
 
 * I am a Ph.D student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/). [[Curriculum Vitae]](http://lantaoyu.com/files/lantaoyu_cv.pdf)
