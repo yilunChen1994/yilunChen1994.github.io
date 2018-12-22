@@ -7,3 +7,4 @@ author_profile: true
 Newark, Delaware<br>
 Email: yc3214 [at] columbia.edu
 yilunc0127 [at] gmail.com
+LinkedIn:  https://www.linkedin.com/in/yilun-alice-chen/
